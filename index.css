@@ -1,0 +1,54 @@
+
+.img{
+    width:50%;
+    margin-left: 500px;
+    margin-top: auto;
+}
+
+.container{
+    width:50%;
+    border:3px solid;
+    border-radius: 5px;
+    text-align: center;
+    background-color:blanchedalmond;
+}
+
+table,th{
+    border:1px solid;
+}
+
+.table-container{
+    margin-left: 550px;
+    width:800px;
+    text-align: left;
+    border: 2px solid black;
+}
+
+
+
+.table-container2{
+    margin-left: 550px;
+    width:800px;
+    text-align: left;
+    border: 2px solid black;
+}
+
+.align{
+    padding-left:15px;
+}
+
+.text{
+    text-align:center;
+}
+
+.pad2{
+    padding-left: 200px
+}
+
+
+.signature{
+    width:1080px;
+    height: 30px;
+    transform: translateX(50%);
+    margin: 0;
+}
